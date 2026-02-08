@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_curriculum_cv_sections",
+  "info": {
+    "displayName": "CV Section",
+    "icon": "layer"
+  },
+  "options": {},
+  "attributes": {
+    "category_title": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "component": "curriculum.cv-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

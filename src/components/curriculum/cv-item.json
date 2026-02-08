@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_curriculum_cv_items",
+  "info": {
+    "displayName": "CV Item",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "year": {
+      "type": "string"
+    },
+    "detail": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
